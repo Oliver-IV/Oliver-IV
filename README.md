@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineer and a **Backend Developer**. My expertise lies in **microservices**, event-driven architecture, and modern backend frameworks like **NestJS** and **ASP.NET**.
+I'm a Software Engineer and a **Full-Stack Developer**. My expertise lies in **microservices**, event-driven architecture, and modern backend frameworks like **NestJS** and **ASP.NET**.
 
 After mastering traditional backend stacks, I've dived head-first into the decentralized world. I am now actively building on the **Solana** ecosystem, writing smart contracts with **Rust & Anchor**, and connecting them to robust, full-stack dApps.
 
